@@ -1,0 +1,54 @@
+.font-smaller {
+    font-size: 0.8em;
+}
+
+.switch-on-the-right {
+    padding-left: 0 !important;
+}
+
+.access-log-info {
+    font-size: 0.8em;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+
+.monospace-smaller {
+    font-size: 0.8em;
+    white-space: pre-wrap;
+    word-break: break-all;
+}
+
+.access-commands {
+    font-size: 0.8em;
+    word-break: break-all;
+}
+
+/*
+    From view-source:https://getbootstrap.com/docs/5.1/examples/features/features.css
+ */
+.icon-square {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    font-size: 1.5rem;
+    border-radius: .75rem;
+}
+
+.examples {
+    font-size: 0.8em;
+    word-break: break-all;
+}
+
+.feature-icon {
+    width: 1.75em;
+    height: 1.75em;
+}
+
+.coming-soon {
+    font-size: 0.5em;
+    top: -0.7em;
+    left: 0.5em;
+    position: relative;
+}
